@@ -1,1 +1,1 @@
-alert("AAhoj ne");
+alert("AAhoj nejj");
